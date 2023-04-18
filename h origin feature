@@ -1,0 +1,34 @@
+[33me30bfa9[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m conflict
+[33m6444855[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m Merge pull request #9 from Balu-udhay/defect
+[33mc80d85e[m test conflict
+[33m2998f86[m Merge pull request #8 from Balu-udhay/defect
+[33m4288c79[m conflict
+[33mfe6e8e6[m Merge pull request #7 from Balu-udhay/defect
+[33mbbd0115[m Merge branch 'master' into defect
+[33m8b38f27[m html
+[33me2381fe[m Merge pull request #6 from Balu-udhay/feature
+[33m51a5b7c[m Modified html
+[33m6ac8d51[m Merge pull request #5 from Balu-udhay/defect
+[33m83de57c[m[33m ([m[1;31morigin/defect[m[33m)[m java
+[33m51e33cb[m Merge pull request #4 from Balu-udhay/feature
+[33m35e0e3d[m HTML
+[33mcf30519[m Merge pull request #3 from Balu-udhay/defect
+[33m7e5bbf1[m Modified html
+[33m8c5c276[m Merge pull request #2 from Balu-udhay/feature
+[33m55d2c47[m Merge pull request #1 from Balu-udhay/defect
+[33macc582c[m defect
+[33m4c23a77[m added a feature file
+[33mcf4319d[m Update bal.java
+[33md9821d4[m Update bal.html
+[33mc3f7280[m revertedRevert "Modified java file"
+[33mf66cac8[m Modified java file
+[33m6e50871[m added a java file
+[33mccb714e[m deletd a file
+[33m01f6a15[m deleted a file
+[33m7dc9c02[m added a file
+[33m14c125c[m[33m ([m[1;33mtag: v1.0[m[33m)[m Modified yml for final release
+[33m8be9818[m Added git ignore file
+[33m20f95b8[m Modified html file again
+[33ma74c4e5[m modified html file
+[33m3b86c3b[m Added 2 more files
+[33m7bbfbb3[m Added 2 files
